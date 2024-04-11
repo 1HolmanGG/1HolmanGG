@@ -27,6 +27,6 @@ I am a software programming apprentice and I aspire to become the best of all ti
 </div>
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1HolmanGG=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1HolmanGG&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1HolmanGG&layout=compact&theme=vision-friendly-dark)](https://github.com/1HolmanGG))
