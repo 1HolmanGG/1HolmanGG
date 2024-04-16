@@ -1,32 +1,37 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Desarrollador-Web-9cf">
+  <img src="https://img.shields.io/badge/Lenguajes-XAMPP%20%7C%20MySQL%20%7C%20HTML%20%7C%20CSS-blue">
+  <img src="https://img.shields.io/badge/En%20proceso%20de%20formación-Sí-green">
+  <img src="https://img.shields.io/badge/Objetivo-Ser%20el%20mejor%20de%20todos%20los%20tiempos-red">
+</p>
 
-# Hi, I'm Holman! 👋
+# ¡Hola a todos! 👋
 
+¡Bienvenidos a mi perfil de GitHub! Soy **Holman Galindo Guerrero** 🚀, un apasionado en proceso de formación en el mundo del desarrollo web. Mi objetivo es convertirme en el mejor desarrollador de todos los tiempos 💻.
 
-## 🚀 About Me
-I'm a full stack developer...
+## Sobre mí
 
-I am a software programming apprentice and I aspire to become the best of all time...
-## Badges
+- 🎓 Actualmente, estoy enfocado en mi proceso de formación en desarrollo web.
+- 💼 Me especializo en tecnologías como **XAMPP**, **MySQL**, **HTML** y **CSS**.
+- 🌱 Siempre estoy buscando aprender y mejorar mis habilidades en el mundo del desarrollo web.
+- 💡 Me encanta colaborar en proyectos creativos y desafiantes.
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+## Lenguajes y Herramientas
 
----
-### :hammer_and_wrench: Lenguajes y herramientas :
-<div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-  </a>
+- XAMPP
+- MySQL
+- HTML
+- CSS
 
-</div>
+## Contacto
 
----
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1HolmanGG&theme=dark&background=000000)](https://git.io/streak-stats)
+¡No dudes en contactarme! Estoy siempre dispuesto a colaborar en proyectos interesantes y a conectar con otros desarrolladores.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1HolmanGG&layout=compact&theme=vision-friendly-dark)](https://github.com/1HolmanGG))
+- 📱 WhatsApp: [+1234567890](https://wa.me/1234567890)
+- 🌐 Facebook: [facebook.com/tuperfil](https://www.facebook.com/tuperfil)
+
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=holmangalindo&show_icons=true&theme=radical)
+
+¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. ¡No dudes en seguirme para estar al tanto de mis últimas actualizaciones! 😊
