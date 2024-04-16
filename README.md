@@ -32,6 +32,6 @@
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=holmangalindo&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=1holmangg&show_icons=true&theme=radical)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. ¡No dudes en seguirme para estar al tanto de mis últimas actualizaciones! 😊
