@@ -27,8 +27,8 @@
 
 ¡No dudes en contactarme! Estoy siempre dispuesto a colaborar en proyectos interesantes y a conectar con otros desarrolladores.
 
-- 📱 WhatsApp: [+1234567890](https://wa.me/1234567890)
-- 🌐 Facebook: [facebook.com/tuperfil](https://www.facebook.com/tuperfil)
+- 📱 WhatsApp: [+57 3142015187](https://wa.me/1234567890)
+- 🌐 Facebook: [https://www.facebook.com/yasline.ortega.5](https://www.facebook.com/tuperfil)
 
 ## Estadísticas de GitHub
 
